@@ -51,7 +51,7 @@ class _LoginPageState extends State<LoginPage> {
                 ),
               ),
               Center(
-                child: ElevatedButton(onPressed: () {}, child: Text('ログイン')),
+                child: ElevatedButton(onPressed: () {}, child: const Text('ログイン')),
               ),
             ],
           ),
