@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "296618411663",
+    "project_id": "js-champion-7c9f9",
+    "storage_bucket": "js-champion-7c9f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296618411663:android:6aa564146782c1ca9a92fa",
+        "android_client_info": {
+          "package_name": "com.example.js_champion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296618411663-edvemd7b227q13769f5cgqkjkp6lv26h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8z8hjUx5CC25zFUa4eruPWwjZztLMxRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296618411663-edvemd7b227q13769f5cgqkjkp6lv26h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296618411663-45j84ccu6big6t43fk899fptvkbd1msp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jsChampion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
